@@ -1,0 +1,30 @@
+/*
+ * Theme Name: Flower Power
+ * Theme URI:
+ * Description: Child theme for Flower Power
+ * Storefront Child Theme Author:
+ * Author URI:
+ * Template: storefront
+ * Version: 1.0.0
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: flowerpower
+ * Text Domain: flowerpower
+ */
+
+.main-navigation ul.menu,
+.main-navigation ul.nav-menu {
+    font-weight: 900;
+}
+
+.site-header .site-logo-anchor,
+.site-header .site-logo-link,
+.site-header .custom-logo-link {
+    display: flex;
+    justify-content: center;
+}
+
+.primary-navigation {
+    display: flex;
+    justify-content: center;
+}
